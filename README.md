@@ -1,3 +1,6 @@
 DATA SCIENCE BOOTCAMP WEEK 
 # INTRODUCTION
 This is a readme file for the Data Analysis Bootcamp offered by Lux Tech Academy and Data Science East Africa. It is a five-week program and is beginner friendly. I hope to be able to complete the course and gain new skills. I expect it to be hard but im pretty sure I will do well.
+# DATA ANALYSIS AS A CAREER PATH
+Data drives the world, everything we dom and interact with is a product of data. For example, before one buys a car, or house or even in the case of choosing a career path, a lot of time and resources is spent on conducting research on the pros and cons of the deal, the benefits it might bring or the major losses one mighht incur in case the deal does not pay off.
+Data is used to make the afore-mentioned decisions, the data before it is cleaned might be difficult to understand and comprehend, it is more or less the same as computer binary which might be difficult to understand. This therefore makes the world of data analysis a very important career path.
